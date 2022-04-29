@@ -1,0 +1,32 @@
+# Made using Asset Forge (2.2.0)
+
+:materials
+
+[name:wood;color:RGBA(0.840, 0.435, 0.305, 1.000);scale:(1.0, 1.0);shader:Default;valueA:0.35;valueB:0;]
+
+:models
+
+[name:;collection:Ships;type:mast_middle;position:(-0.2200, 0.0500, 0.0000);rotation:(0.0000, 0.0000, 315.0000);scale:(0.4000, 1.3000, 0.4000);group:;locked:False;hidden:False;materials:wood;]
+[name:;collection:Ships;type:mast_middle;position:(-0.4200, 0.0500, 0.0000);rotation:(0.0000, 0.0000, 315.0000);scale:(0.4000, 1.3000, 0.4000);group:;locked:False;hidden:False;materials:wood;]
+[name:;collection:Ships;type:mast_middle;position:(0.2200, 0.0500, 0.0000);rotation:(0.0000, 0.0000, 45.0000);scale:(-0.4000, 1.3000, 0.4000);group:;locked:False;hidden:False;materials:wood;]
+[name:;collection:Ships;type:mast_middle;position:(0.4200, 0.0500, 0.0000);rotation:(0.0000, 0.0000, 45.0000);scale:(-0.4000, 1.3000, 0.4000);group:;locked:False;hidden:False;materials:wood;]
+[name:;collection:Ships;type:mast_middle;position:(0.6200, 0.0500, 0.0000);rotation:(0.0000, 0.0000, 45.0000);scale:(-0.4000, 1.3000, 0.4000);group:;locked:False;hidden:False;materials:wood;]
+[name:;collection:Ships;type:mast_middle;position:(0.6988, 0.7712, 0.0000);rotation:(0.0000, 0.0000, 45.0000);scale:(-0.4000, 0.2800, 0.4000);group:;locked:False;hidden:False;materials:wood;]
+[name:;collection:Ships;type:mast_middle;position:(0.6826, 0.5874, 0.0000);rotation:(0.0000, 0.0000, 45.0000);scale:(-0.4000, 0.5500, 0.4000);group:;locked:False;hidden:False;materials:wood;]
+[name:;collection:Ships;type:mast_middle;position:(-0.6200, 0.0500, 0.0000);rotation:(0.0000, 0.0000, 315.0000);scale:(0.4000, 1.3000, 0.4000);group:;locked:False;hidden:False;materials:wood;]
+[name:;collection:Ships;type:mast_middle;position:(-0.7000, -0.0200, 0.0000);rotation:(0.0000, 0.0000, 0.0000);scale:(0.8000, 1.0000, 0.4000);group:;locked:False;hidden:False;materials:wood;]
+[name:;collection:Ships;type:mast_middle;position:(0.7000, -0.0200, 0.0000);rotation:(0.0000, 0.0000, 0.0000);scale:(0.8000, 1.0000, 0.4000);group:;locked:False;hidden:False;materials:wood;]
+[name:;collection:Ships;type:mast_middle;position:(0.7018, 0.3682, 0.0000);rotation:(0.0000, 0.0000, 45.0000);scale:(-0.4000, 0.8500, 0.4000);group:;locked:False;hidden:False;materials:wood;]
+[name:;collection:Ships;type:mast_middle;position:(0.6927, 0.1773, 0.0000);rotation:(0.0000, 0.0000, 45.0000);scale:(-0.4000, 1.1300, 0.4000);group:;locked:False;hidden:False;materials:wood;]
+[name:;collection:Ships;type:mast_middle;position:(0.7400, 0.9800, 0.0000);rotation:(0.0000, 0.0000, 90.0000);scale:(0.8000, 1.4800, 0.4000);group:;locked:False;hidden:False;materials:wood;]
+[name:;collection:Ships;type:mast_middle;position:(0.7400, 0.0500, 0.0000);rotation:(0.0000, 0.0000, 90.0000);scale:(0.8000, 1.4800, 0.4000);group:;locked:False;hidden:False;materials:wood;]
+[name:;collection:Ships;type:mast_middle;position:(0.3881, 0.0581, 0.0000);rotation:(0.0000, 0.0000, 315.0000);scale:(0.4000, 0.4300, 0.4000);group:;locked:False;hidden:False;materials:wood;]
+[name:;collection:Ships;type:mast_middle;position:(0.1901, 0.0601, 0.0000);rotation:(0.0000, 0.0000, 315.0000);scale:(0.4000, 0.7100, 0.4000);group:;locked:False;hidden:False;materials:wood;]
+[name:;collection:Ships;type:mast_middle;position:(0.0079, 0.0621, 0.0000);rotation:(0.0000, 0.0000, 45.0000);scale:(-0.4000, 1.0000, 0.4000);group:;locked:False;hidden:False;materials:wood;]
+[name:;collection:Ships;type:mast_middle;position:(-0.1972, 0.0672, 0.0000);rotation:(0.0000, 0.0000, 45.0000);scale:(-0.4000, 0.7200, 0.4000);group:;locked:False;hidden:False;materials:wood;]
+[name:;collection:Ships;type:mast_middle;position:(-0.3952, 0.0652, 0.0000);rotation:(0.0000, 0.0000, 45.0000);scale:(-0.4000, 0.4300, 0.4000);group:;locked:False;hidden:False;materials:wood;]
+[name:;collection:Ships;type:mast_middle;position:(-0.6998, 0.1702, 0.0000);rotation:(0.0000, 0.0000, 315.0000);scale:(0.4000, 1.1200, 0.4000);group:;locked:False;hidden:False;materials:wood;]
+[name:;collection:Ships;type:mast_middle;position:(-0.0008, 0.0692, 0.0000);rotation:(0.0000, 0.0000, 315.0000);scale:(0.4000, 0.9900, 0.4000);group:;locked:False;hidden:False;materials:wood;]
+[name:;collection:Ships;type:mast_middle;position:(-0.6947, 0.3753, 0.0000);rotation:(0.0000, 0.0000, 315.0000);scale:(0.4000, 0.8500, 0.4000);group:;locked:False;hidden:False;materials:wood;]
+[name:;collection:Ships;type:mast_middle;position:(-0.6967, 0.5733, 0.0000);rotation:(0.0000, 0.0000, 315.0000);scale:(0.4000, 0.5700, 0.4000);group:;locked:False;hidden:False;materials:wood;]
+[name:;collection:Ships;type:mast_middle;position:(-0.6988, 0.7712, 0.0000);rotation:(0.0000, 0.0000, 315.0000);scale:(0.4000, 0.2800, 0.4000);group:;locked:False;hidden:False;materials:wood;]
