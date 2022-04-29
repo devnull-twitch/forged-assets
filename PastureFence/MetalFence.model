@@ -1,0 +1,16 @@
+# Made using Asset Forge (2.2.0)
+
+:materials
+
+[name:metal;color:RGBA(0.580, 0.569, 0.769, 1.000);scale:(1.0, 1.0);shader:Default;valueA:0.35;valueB:0.25;]
+[name:metalGreen;color:RGBA(0.047, 0.847, 0.624, 1.000);scale:(1.0, 1.0);shader:Default;valueA:0.35;valueB:0.75;]
+[name:wood;color:RGBA(0.840, 0.435, 0.305, 1.000);scale:(1.0, 1.0);shader:Default;valueA:0.35;valueB:0;]
+
+:models
+
+[name:;collection:Ships;type:mast_middle;position:(-1.0000, 0.0000, -0.0500);rotation:(0.0000, 0.0000, 0.0000);scale:(1.0000, 1.0000, 3.0000);group:;locked:False;hidden:False;materials:wood;]
+[name:;collection:Ships;type:mast_middle;position:(1.0000, 0.0000, -0.0500);rotation:(0.0000, 0.0000, 0.0000);scale:(1.0000, 1.0000, 3.0000);group:;locked:False;hidden:False;materials:wood;]
+[name:;collection:Foliage;type:trunk_skewLarge;position:(-1.0000, 0.8000, -0.0400);rotation:(90.0000, 99.0000, 0.0000);scale:(0.4000, 2.0000, 0.3000);group:;locked:False;hidden:False;materials:wood;]
+[name:;collection:Foliage;type:trunk_skewLarge;position:(-0.0195, 0.8000, -0.1201);rotation:(270.0000, 261.0000, 0.0000);scale:(0.3999, 1.9817, -0.3000);group:;locked:False;hidden:False;materials:wood;]
+[name:;collection:Foliage;type:trunk_skewLarge;position:(-0.0100, 0.5100, -0.0200);rotation:(85.0003, 90.0000, 351.0000);scale:(0.3999, 1.9817, 0.3000);group:;locked:False;hidden:False;materials:wood;]
+[name:;collection:Foliage;type:trunk_skewLarge;position:(-0.9900, 0.6000, -0.0800);rotation:(85.0000, 271.0000, 9.0000);scale:(0.4000, -2.0000, -0.3000);group:;locked:False;hidden:False;materials:wood;]
