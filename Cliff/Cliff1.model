@@ -1,0 +1,24 @@
+# Made using Asset Forge (2.2.0)
+
+:materials
+
+[name:custom3;color:RGBA(0.407, 0.407, 0.407, 1.000);scale:(1.0, 1.0);shader:Default;valueA:0.5;valueB:0.15;]
+[name:custom1;color:RGBA(0.531, 0.531, 0.531, 1.000);scale:(1.0, 1.0);shader:Default;valueA:0.5;valueB:0.15;]
+
+:models
+
+[name:;collection:Primitives;type:icosphere_quarter;position:(-2.9909, 1.4600, 0.7300);rotation:(0.0000, 180.0000, 0.0000);scale:(6.1128, 1.0000, 1.6300);group:;locked:False;hidden:False;materials:custom3;]
+[name:;collection:Primitives;type:icosphere_quarter;position:(-2.9909, 1.4600, 0.7300);rotation:(0.0000, 180.0000, 0.0000);scale:(6.1128, -1.0000, 1.6300);group:;locked:False;hidden:False;materials:custom3;]
+[name:;collection:Primitives;type:icosphere_quarter;position:(3.1155, 1.4600, 0.7300);rotation:(0.0000, 180.0000, 0.0000);scale:(-6.1128, -1.0000, 1.6300);group:;locked:False;hidden:False;materials:custom3;]
+[name:;collection:Primitives;type:icosphere_quarter;position:(3.1155, 1.4600, 0.7300);rotation:(0.0000, 180.0000, 0.0000);scale:(-6.1128, 1.0000, 1.6300);group:;locked:False;hidden:False;materials:custom3;]
+[name:;collection:Foliage;type:leafs_cone;position:(-2.3904, 1.5600, -0.1800);rotation:(0.0000, 90.0000, 180.0000);scale:(1.1400, 1.5000, 1.4096);group:;locked:False;hidden:False;materials:custom3;]
+[name:;collection:Ships;type:sail_stripesHorizontal;position:(-2.0722, 0.2600, 0.2310);rotation:(0.0000, 350.0000, 0.0000);scale:(1.0957, 1.0000, 1.0636);group:;locked:False;hidden:False;materials:custom1+custom1;]
+[name:;collection:Ships;type:sail_stripesHorizontal;position:(-1.3950, 0.2600, 0.2500);rotation:(0.0000, 0.0000, 0.0000);scale:(1.3100, 1.0000, 1.0000);group:;locked:False;hidden:False;materials:custom3+custom3;]
+[name:;collection:Foliage;type:leafs_cone;position:(-0.5304, 1.5027, -0.1100);rotation:(0.0000, 90.0000, 180.0000);scale:(1.1400, 1.5177, 1.4096);group:;locked:False;hidden:False;materials:custom3;]
+[name:;collection:Ships;type:sail_stripesHorizontal;position:(-0.0200, 0.2600, 0.2500);rotation:(0.0000, 0.0000, 0.0000);scale:(1.0000, 1.0000, 1.0000);group:;locked:False;hidden:False;materials:custom3+custom3;]
+[name:;collection:Ships;type:sail_stripesHorizontal;position:(0.6700, 0.2600, 0.2500);rotation:(350.6087, 20.2836, 356.5488);scale:(1.0000, 1.0000, 1.0000);group:;locked:False;hidden:False;materials:custom3+custom3;]
+[name:;collection:Foliage;type:leafs_cone;position:(1.0500, 0.2400, 0.0500);rotation:(0.0000, 0.0000, 0.0000);scale:(1.0000, 1.0000, 1.0000);group:;locked:False;hidden:False;materials:custom1;]
+[name:;collection:Ships;type:sail_stripesHorizontal;position:(1.9350, 0.2600, 0.1300);rotation:(0.0000, 0.0000, 0.0000);scale:(1.4700, 1.0000, 1.0000);group:;locked:False;hidden:False;materials:custom3+custom3;]
+[name:;collection:Foliage;type:leafs_round;position:(2.5357, 0.0000, -0.0657);rotation:(0.0000, 190.0000, 0.0000);scale:(0.8700, 2.7700, 0.5036);group:;locked:False;hidden:False;materials:custom1;]
+[name:;collection:Primitives;type:icosphere_quarter;position:(3.1191, 0.0000, 0.8000);rotation:(0.0000, 180.0000, 0.0000);scale:(-6.1128, 1.0000, 1.6300);group:;locked:False;hidden:False;materials:custom3;]
+[name:;collection:Primitives;type:icosphere_quarter;position:(-2.9909, 0.0000, 0.8000);rotation:(0.0000, 180.0000, 0.0000);scale:(6.1128, 1.0000, 1.6300);group:;locked:False;hidden:False;materials:custom3;]
